@@ -1,0 +1,9 @@
+{
+  "id": "smb-rescan",
+  "name": "SMB Rescan",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Automaticky znovu načte seznam souborů vaultu na síťovém disku (SMB), kde nechodí notifikace o změnách.",
+  "author": "Daniel Dočekal",
+  "isDesktopOnly": true
+}
