@@ -1,9 +1,10 @@
 {
   "id": "smb-rescan",
   "name": "SMB Rescan",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "minAppVersion": "1.4.0",
-  "description": "Automaticky znovu načte seznam souborů vaultu na síťovém disku (SMB), kde nechodí notifikace o změnách.",
+  "description": "Re-scans a vault stored on a network drive (SMB/NAS) where file-change notifications don't arrive.",
   "author": "Daniel Dočekal",
+  "authorUrl": "https://github.com/DanielDocekal",
   "isDesktopOnly": true
 }
